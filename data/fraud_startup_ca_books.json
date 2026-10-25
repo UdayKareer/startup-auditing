@@ -1,0 +1,24 @@
+{
+  "company_cin": "U74999DL2024PTC389102",
+  "accounting_software": "Tally Prime Gold v4.1",
+  "certified_by": "V. K. Aggarwal & Associates CA",
+  "financial_period": "FY 2026-27 (Q2-Q3)",
+  "trial_balance_inr": {
+    "booked_sales_revenue": 25500000.0,
+    "trade_receivables_total": 15400000.0,
+    "receivables_aging": {
+      "under_30_days": 1200000.0,
+      "31_to_90_days": 2100000.0,
+      "over_180_days_doubtful": 12100000.0
+    },
+    "trade_payables": 4500000.0,
+    "statutory_dues_payable": {
+      "gst_output_liability": 2772000.0,
+      "tds_payable": 890000.0,
+      "pf_esi_payable": 340000.0
+    },
+    "general_ledger_cash_balance": 8450000.0
+  },
+  "related_party_disclosures_sec188": [],
+  "audit_opinion": "QUALIFIED_MATERIAL_UNCERTAINTY"
+}

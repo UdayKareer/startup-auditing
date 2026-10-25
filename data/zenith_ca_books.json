@@ -1,0 +1,24 @@
+{
+  "company_cin": "U85110MH2023PTC398765",
+  "accounting_software": "Zoho Books Enterprise v2026.1",
+  "certified_by": "K. S. Aiyar & Co. Chartered Accountants (FRN 100186W)",
+  "financial_period": "FY 2026-27 (Q2-Q3)",
+  "trial_balance_inr": {
+    "booked_sales_revenue": 218000000.0,
+    "trade_receivables_total": 32000000.0,
+    "receivables_aging": {
+      "under_30_days": 16000000.0,
+      "31_to_90_days": 14500000.0,
+      "over_180_days_doubtful": 1500000.0
+    },
+    "trade_payables": 14000000.0,
+    "statutory_dues_payable": {
+      "gst_output_liability": 450000.0,
+      "tds_payable": 280000.0,
+      "pf_esi_payable": 120000.0
+    },
+    "general_ledger_cash_balance": 124500000.0
+  },
+  "related_party_disclosures_sec188": [],
+  "audit_opinion": "UNQUALIFIED_WITH_EMPHASIS_OF_MATTER"
+}

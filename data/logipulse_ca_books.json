@@ -1,0 +1,24 @@
+{
+  "company_cin": "U63090MH2022PTC345678",
+  "accounting_software": "Tally Prime Enterprise v4.1",
+  "certified_by": "M. K. Joshi & Associates Chartered Accountants (FRN 012489W)",
+  "financial_period": "FY 2026-27 (Q2-Q3)",
+  "trial_balance_inr": {
+    "booked_sales_revenue": 18500000.0,
+    "trade_receivables_total": 11193718.63,
+    "receivables_aging": {
+      "under_30_days": 2193718.63,
+      "31_to_90_days": 3500000.0,
+      "over_180_days_doubtful": 5500000.0
+    },
+    "trade_payables": 6800000.0,
+    "statutory_dues_payable": {
+      "gst_output_liability": 1850000.0,
+      "tds_payable": 480000.0,
+      "pf_esi_payable": 220000.0
+    },
+    "general_ledger_cash_balance": 1200000.0
+  },
+  "related_party_disclosures_sec188": [],
+  "audit_opinion": "QUALIFIED_MATERIAL_UNCERTAINTY"
+}

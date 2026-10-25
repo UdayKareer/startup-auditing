@@ -1,0 +1,2 @@
+return_id,cin,allotment_date,allottee_name,allottee_pan,shares_allotted,nominal_value_per_share,premium_per_share,total_amount_received,mode_of_payment,bank_reference,roc_srn
+PAS3-2025-01,U72900KA2023PTC178921,2025-05-10,Sequoia Surge India,AAACS1234S,200000,10.0,90.0,20000000.0,BANKING_CHANNEL,HDFC981273891,SRN_PAS3_9812034

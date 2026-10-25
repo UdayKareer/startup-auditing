@@ -1,0 +1,65 @@
+{
+  "cin": "U50400DL2021PTC378901",
+  "company_name": "AutoCare Network India Private Limited",
+  "incorporation_date": "2023-04-18",
+  "roc_office": "ROC Delhi",
+  "authorized_capital_inr": 20000000.0,
+  "paid_up_capital_inr": 12500000.0,
+  "registered_email": "compliance@autocare.io",
+  "gstin": null,
+  "pan": null,
+  "merkle_root": "0xdb2ff5474e0639c133a3baabc64909a7e99d21b714eba3050eb54e76ac54a74d",
+  "ca_audit_opinion": "ADVERSE_DISCLAIMER_OPINION",
+  "hanko_stages": [
+    {
+      "stage_id": "stage_1",
+      "role_en": "Drafter",
+      "role_jp": "起　案",
+      "dept_jp": "国際投資部",
+      "signatory": "佐藤 (Sato)",
+      "status": "APPROVED",
+      "status_jp": "承認済",
+      "date": "2026-10-24"
+    },
+    {
+      "stage_id": "stage_2",
+      "role_en": "Reviewer",
+      "role_jp": "審　査",
+      "dept_jp": "法務コンプラ",
+      "signatory": "鈴木 (Suzuki)",
+      "status": "APPROVED",
+      "status_jp": "承認済",
+      "date": "2026-10-24"
+    },
+    {
+      "stage_id": "stage_3",
+      "role_en": "Forensic Auditor",
+      "role_jp": "精　査",
+      "dept_jp": "財務DD室",
+      "signatory": "高橋 (Takahashi)",
+      "status": "FLAGGED",
+      "status_jp": "否認/保留",
+      "date": "2026-10-24"
+    },
+    {
+      "stage_id": "stage_4",
+      "role_en": "Committee",
+      "role_jp": "合　議",
+      "dept_jp": "投資委員会",
+      "signatory": "田中 (Tanaka)",
+      "status": "HELD",
+      "status_jp": "審査中",
+      "date": "2026-10-24"
+    },
+    {
+      "stage_id": "stage_5",
+      "role_en": "Final Approver",
+      "role_jp": "決　裁",
+      "dept_jp": "代表取締役",
+      "signatory": "渡辺 (Watanabe)",
+      "status": "PENDING",
+      "status_jp": "決裁待ち",
+      "date": "2026-10-24"
+    }
+  ]
+}

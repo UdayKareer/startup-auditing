@@ -1,0 +1,37 @@
+{
+  "company_cin": "U50400DL2021PTC378901",
+  "accounting_software": "Tally Prime Gold v4.2",
+  "certified_by": "R. Sharma & Associates Chartered Accountants (FRN 014528N)",
+  "financial_period": "FY 2026-27 (Q2-Q3)",
+  "trial_balance_inr": {
+    "booked_sales_revenue": 1800000000.0,
+    "trade_receivables_total": 950000000.0,
+    "receivables_aging": {
+      "under_30_days": 150000000.0,
+      "31_to_90_days": 250000000.0,
+      "over_180_days_doubtful": 550000000.0
+    },
+    "trade_payables": 380000000.0,
+    "statutory_dues_payable": {
+      "gst_output_liability": 185000000.0,
+      "tds_payable": 24000000.0,
+      "pf_esi_payable": 8500000.0
+    },
+    "general_ledger_cash_balance": 14500000.0
+  },
+  "related_party_disclosures_sec188": [
+    {
+      "party_name": "Oberoi Spares & Auto Components LLP",
+      "nature_of_relationship": "Entity influenced by Director Rishabh Oberoi",
+      "pan": "AROPO8901L",
+      "amount_inr": 48000000.0,
+      "board_approval_status": "NO_BOARD_RESOLUTION_MGT14"
+    }
+  ],
+  "cash_transactions_sec269st": {
+    "cash_receipts_exceeding_2_lakhs_inr": 18500000.0,
+    "violation_count": 5,
+    "statutory_penalty_under_sec271da_inr": 18500000.0
+  },
+  "audit_opinion": "ADVERSE_DISCLAIMER_OPINION"
+}

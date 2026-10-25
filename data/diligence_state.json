@@ -1,0 +1,195 @@
+{
+  "active_preset": "logipulse_startup",
+  "active_cin": "U63090MH2022PTC345678",
+  "entity_data": {
+    "cin": "U63090MH2022PTC345678",
+    "aliases": [
+      "U63090MH2022PTC345678",
+      "U63030MH2021PTC362190",
+      "LOGIPULSE",
+      "LOGIPULSE EXPRESS"
+    ],
+    "company_name": "LogiPulse Express Private Limited",
+    "preset_key": "logipulse_startup",
+    "incorporation_date": "2022-08-20",
+    "vintage_years": 4.2,
+    "roc_office": "ROC Mumbai (Maharashtra)",
+    "registered_address": "Bandra Kurla Complex, Mumbai, Maharashtra 400051",
+    "authorized_capital_inr": 7500000.0,
+    "paid_up_capital_inr": 5000000.0,
+    "gstin": "27ARKPK1234M1Z2",
+    "pan": "ARKPK1234M",
+    "bank_name": "Axis Bank",
+    "bank_account_number": "921020045612390",
+    "bank_ifsc": "UTIB0000004",
+    "bank_fip_display": "Axis Bank Corporate Current A/c #...2390 (IFSC: UTIB0000004, BKC Mumbai)",
+    "bank_protocol": "ReBIT DEPOSIT v2.0 • X.509 Signed • ECDH Curve25519",
+    "tax_rail": "GSTN Sovereign Tax Rail (GSTR-1, GSTR-3B / NIC E-Invoice QR Verified)",
+    "directors": [
+      {
+        "din": "07123987",
+        "name": "Rohan Kulkarni",
+        "pan": "ARKPK1234M",
+        "designation": "Managing Director",
+        "appointment_date": "2022-08-20",
+        "address": "Bandra Kurla Complex, Mumbai, Maharashtra 400051"
+      }
+    ],
+    "status": "COMPLIANT_ACTIVE",
+    "governance_classification": "Operational Distress & Stagnant Working Capital",
+    "governance_classification_jp": "経営難 & 運転資本滞留 (不良売掛金)",
+    "shinrai_score": 68,
+    "kanji_badge": "【要確認】",
+    "merkle_root": "0x7b1c3d5e9f2a4b6c8d0e1f3a5b7c9d1e2f4a6b8c0d2e4f6a8b0c2d4e6f8a0b2c",
+    "passcode": "TRUSTVAULT-VC901-TJH"
+  },
+  "presets": {
+    "clean_startup": {
+      "status": "APPROVED",
+      "dispatched_at": "2026-10-25T09:17:38Z",
+      "approved_at": "2026-10-25T09:17:38Z",
+      "signatory": "Rajesh Sharma (DIN: 08921045)",
+      "linked_rails": {
+        "bank": true,
+        "gst": true,
+        "mca": true
+      },
+      "data_room_sealed": true
+    },
+    "fraud_startup": {
+      "status": "APPROVED",
+      "dispatched_at": "2026-10-25T09:17:38Z",
+      "approved_at": "2026-10-25T09:18:31Z",
+      "signatory": "Rajesh Sharma (DIN: 08921045)",
+      "linked_rails": {
+        "bank": true,
+        "gst": true,
+        "mca": true
+      },
+      "data_room_sealed": true
+    },
+    "logipulse_startup": {
+      "status": "APPROVED",
+      "dispatched_at": "2026-10-25T09:17:38Z",
+      "approved_at": "2026-10-25T09:18:01Z",
+      "signatory": "Rohan Kulkarni (DIN: 07123987)",
+      "linked_rails": {
+        "bank": true,
+        "gst": true,
+        "mca": true
+      },
+      "data_room_sealed": true
+    },
+    "mirai_startup": {
+      "status": "DISPATCHED",
+      "dispatched_at": "2026-10-25T09:17:38Z",
+      "approved_at": null,
+      "signatory": null,
+      "linked_rails": {
+        "bank": false,
+        "gst": false,
+        "mca": false
+      },
+      "data_room_sealed": false
+    },
+    "edutrek_startup": {
+      "status": "DISPATCHED",
+      "dispatched_at": "2026-10-25T09:17:38Z",
+      "approved_at": null,
+      "signatory": null,
+      "linked_rails": {
+        "bank": false,
+        "gst": false,
+        "mca": false
+      },
+      "data_room_sealed": false
+    },
+    "kwikpay_startup": {
+      "status": "DISPATCHED",
+      "dispatched_at": "2026-10-25T09:17:38Z",
+      "approved_at": null,
+      "signatory": null,
+      "linked_rails": {
+        "bank": false,
+        "gst": false,
+        "mca": false
+      },
+      "data_room_sealed": false
+    },
+    "zenith_startup": {
+      "status": "DISPATCHED",
+      "dispatched_at": "2026-10-25T09:17:38Z",
+      "approved_at": null,
+      "signatory": null,
+      "linked_rails": {
+        "bank": false,
+        "gst": false,
+        "mca": false
+      },
+      "data_room_sealed": false
+    },
+    "autocare_startup": {
+      "status": "DISPATCHED",
+      "dispatched_at": "2026-10-25T09:17:38Z",
+      "approved_at": null,
+      "signatory": null,
+      "linked_rails": {
+        "bank": false,
+        "gst": false,
+        "mca": false
+      },
+      "data_room_sealed": false
+    },
+    "LogiPulse (Working Capital Drag)": {
+      "status": "DISPATCHED",
+      "dispatched_at": "2026-10-25T09:19:09Z",
+      "approved_at": null,
+      "signatory": null,
+      "linked_rails": {
+        "bank": false,
+        "gst": false,
+        "mca": false
+      },
+      "data_room_sealed": false
+    },
+    "Apex AI Labs (Clean SaaS)": {
+      "status": "APPROVED",
+      "dispatched_at": "2026-10-25T09:19:20Z",
+      "approved_at": "2026-10-25T09:20:59Z",
+      "signatory": "Rajesh Sharma (DIN: 08921045)",
+      "linked_rails": {
+        "bank": true,
+        "gst": true,
+        "mca": true
+      },
+      "data_room_sealed": true
+    }
+  },
+  "request": {
+    "handle": "REQ-KIZUNA-2026-LOGI-0914",
+    "status": "APPROVED",
+    "dispatched_at": "2026-10-25T09:17:38Z",
+    "approved_at": "2026-10-25T09:18:01Z",
+    "signatory": "Rohan Kulkarni (DIN: 07123987)",
+    "purpose": "Track OPEN-PS-01 Bilateral Series A Diligence Mandate",
+    "requesting_entity": "Value Create Inc. (Tokyo) & JETRO India Startup Desk",
+    "lead_officer": "Demo Persona — Tanaka Hiroshi (demo@kizuna-vault.example.com)",
+    "scopes": [
+      "RBI AA Bank Ledger (ReBIT DEPOSIT v2.0)",
+      "GSTN Invoices & Returns (GSTR-1, GSTR-3B)",
+      "MCA-21 Director DINs",
+      "CA Books & Form PAS-3"
+    ],
+    "validity": "14 Days Time-Bound Grant (DPDP Act 2023 §6)"
+  },
+  "linked_rails": {
+    "bank": true,
+    "gst": true,
+    "mca": true
+  },
+  "data_room_sealed": true,
+  "passcode": "TRUSTVAULT-VC901-TJH",
+  "merkle_root": "0x7b1c3d5e9f2a4b6c8d0e1f3a5b7c9d1e2f4a6b8c0d2e4f6a8b0c2d4e6f8a0b2c",
+  "last_updated": "2026-10-25T09:22:46Z",
+  "system_status": "ONLINE"
+}

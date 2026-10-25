@@ -1,0 +1,24 @@
+{
+  "company_cin": "U72900DL2022PTC384512",
+  "accounting_software": "Tally Prime Gold v4.2",
+  "certified_by": "P. K. Bansal & Co. Chartered Accountants",
+  "financial_period": "FY 2026-27 (Q2-Q3)",
+  "trial_balance_inr": {
+    "booked_sales_revenue": 360000000.0,
+    "trade_receivables_total": 85000000.0,
+    "receivables_aging": {
+      "under_30_days": 45000000.0,
+      "31_to_90_days": 22000000.0,
+      "over_180_days_doubtful": 18000000.0
+    },
+    "trade_payables": 48000000.0,
+    "statutory_dues_payable": {
+      "gst_output_liability": 18500000.0,
+      "tds_payable": 4200000.0,
+      "pf_esi_payable": 1800000.0
+    },
+    "general_ledger_cash_balance": 32000000.0
+  },
+  "related_party_disclosures_sec188": [],
+  "audit_opinion": "QUALIFIED_ADVERSE_OPINION"
+}

@@ -1,0 +1,31 @@
+{
+  "preset_key": "clean_startup",
+  "company_name": "Apex AI Labs Private Limited",
+  "cin": "U72900KA2023PTC178921",
+  "governance_trust_score": 100,
+  "kanji_badge": "[適格]",
+  "classification": "VERIFIED_CLEAN",
+  "financial_kpis": {
+    "governance_trust_score": 100,
+    "kanji_badge": "[適格]",
+    "classification": "VERIFIED_CLEAN",
+    "verdict": "Approved: High-governance startup. Ingested CA books match sovereign GSTN and bank cash with zero statutory red flags.",
+    "claimed_arr_inr": 25500000.0,
+    "ca_booked_revenue_inr": 25300000.0,
+    "real_bank_credits_inr": 25150000.0,
+    "phantom_revenue_inr": 0.0,
+    "cash_divergence_pct": 0.0,
+    "siphoned_funds_inr": 0.0,
+    "benford_nigrini_mad": 0.00243,
+    "benford_status": "ACCEPTABLE_VARIANCE",
+    "claimed_runway_months": 18.0,
+    "true_runway_months": 86.8,
+    "unremitted_tax_dues_inr": 45000.0,
+    "doubtful_debtors_inr": 0.0,
+    "sec269st_cash_violations_inr": 0.0,
+    "merkle_root": "0xfe359f57ccde0fd85cfd3fdef18c4b294a45a6c2c45a2107da635142317ff913"
+  },
+  "red_flags_count": 0,
+  "red_flags": [],
+  "discrepancies": []
+}

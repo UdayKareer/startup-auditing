@@ -1,0 +1,32 @@
+{
+  "company_cin": "U29100TN2023PTC456789",
+  "accounting_software": "SAP S/4HANA Cloud (Tokyo & Chennai Desk)",
+  "certified_by": "Deloitte Haskins & Sells LLP (FRN 117366W)",
+  "financial_period": "FY 2026-27 (Q2-Q3)",
+  "trial_balance_inr": {
+    "booked_sales_revenue": 43896936.43,
+    "trade_receivables_total": 650000.0,
+    "receivables_aging": {
+      "under_30_days": 580000.0,
+      "31_to_90_days": 70000.0,
+      "over_180_days_doubtful": 0.0
+    },
+    "trade_payables": 2100000.0,
+    "statutory_dues_payable": {
+      "gst_output_liability": 0.0,
+      "tds_payable": 0.0,
+      "pf_esi_payable": 0.0
+    },
+    "general_ledger_cash_balance": 52804518.22
+  },
+  "related_party_disclosures_sec188": [
+    {
+      "party_name": "Value Create Inc. (Tokyo)",
+      "nature_of_relationship": "Investor & Strategic Advisory",
+      "transaction_nature": "Bilateral CVC Advisory & Board Representation",
+      "amount_inr": 0.0,
+      "board_resolution_ref": "BR/2026/09/VALUE_CREATE"
+    }
+  ],
+  "audit_opinion": "UNQUALIFIED_CLEAN"
+}

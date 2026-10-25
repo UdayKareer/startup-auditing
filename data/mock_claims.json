@@ -1,0 +1,74 @@
+{
+  "clean_startup": {
+    "company_name": "Apex AI Labs Private Limited",
+    "cin": "U72900KA2023PTC178921",
+    "claimed_arr_inr": 25500000.0,
+    "claimed_monthly_burn_inr": 650000.0,
+    "claimed_runway_months": 18.0,
+    "claimed_team_size": 32,
+    "sector": "Enterprise Infrastructure & AI"
+  },
+  "fraud_startup": {
+    "company_name": "PhantomTech Solutions Private Limited",
+    "cin": "U74999DL2024PTC389102",
+    "claimed_arr_inr": 25500000.0,
+    "claimed_monthly_burn_inr": 780000.0,
+    "claimed_runway_months": 18.0,
+    "claimed_team_size": 48,
+    "sector": "Cloud SaaS & Supply Chain"
+  },
+  "logipulse_startup": {
+    "company_name": "LogiPulse Express Private Limited",
+    "cin": "U63090MH2022PTC345678",
+    "claimed_arr_inr": 18500000.0,
+    "claimed_monthly_burn_inr": 920000.0,
+    "claimed_runway_months": 14.0,
+    "claimed_team_size": 55,
+    "sector": "D2C Fulfillment & Last-Mile Logistics"
+  },
+  "mirai_startup": {
+    "company_name": "Mirai Mobility Robotics Private Limited",
+    "cin": "U29100TN2023PTC456789",
+    "claimed_arr_inr": 43896936.43,
+    "claimed_monthly_burn_inr": 850000.0,
+    "claimed_runway_months": 24.0,
+    "claimed_team_size": 28,
+    "sector": "Autonomous Industrial Robotics & CleanTech"
+  },
+  "edutrek_startup": {
+    "company_name": "Edutrek Learning Technologies Private Limited",
+    "cin": "U80903KA2021PTC156789",
+    "claimed_arr_inr": 450000000.0,
+    "claimed_monthly_burn_inr": 18500000.0,
+    "claimed_runway_months": 20.0,
+    "claimed_team_size": 350,
+    "sector": "EdTech & Smart Tablet Learning"
+  },
+  "kwikpay_startup": {
+    "company_name": "KwikPay Digital Networks Private Limited",
+    "cin": "U72900DL2022PTC384512",
+    "claimed_arr_inr": 360000000.0,
+    "claimed_monthly_burn_inr": 12000000.0,
+    "claimed_runway_months": 18.0,
+    "claimed_team_size": 180,
+    "sector": "Fintech & Merchant QR Infrastructure"
+  },
+  "zenith_startup": {
+    "company_name": "Zenith BioHealth Solutions Private Limited",
+    "cin": "U85110MH2023PTC398765",
+    "claimed_arr_inr": 220000000.0,
+    "claimed_monthly_burn_inr": 11000000.0,
+    "claimed_runway_months": 16.0,
+    "claimed_team_size": 42,
+    "sector": "AI Diagnostics & Hospital Tele-ICU SaaS"
+  },
+  "autocare_startup": {
+    "company_name": "AutoCare Network India Private Limited",
+    "cin": "U50400DL2021PTC378901",
+    "claimed_arr_inr": 1800000000.0,
+    "claimed_monthly_burn_inr": 95000000.0,
+    "claimed_runway_months": 16.0,
+    "claimed_team_size": 420,
+    "sector": "AutoTech & Multi-Brand Garage Network"
+  }
+}

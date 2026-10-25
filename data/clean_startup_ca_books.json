@@ -1,0 +1,24 @@
+{
+  "company_cin": "U72900KA2023PTC178921",
+  "accounting_software": "Zoho Books Enterprise v2026.2",
+  "certified_by": "R. K. Swamy & Co. Chartered Accountants (FRN 008921S)",
+  "financial_period": "FY 2026-27 (Q2-Q3)",
+  "trial_balance_inr": {
+    "booked_sales_revenue": 25300000.0,
+    "trade_receivables_total": 420000.0,
+    "receivables_aging": {
+      "under_30_days": 350000.0,
+      "31_to_90_days": 70000.0,
+      "over_180_days_doubtful": 0.0
+    },
+    "trade_payables": 380000.0,
+    "statutory_dues_payable": {
+      "gst_output_liability": 45000.0,
+      "tds_payable": 28000.0,
+      "pf_esi_payable": 18000.0
+    },
+    "general_ledger_cash_balance": 12850000.0
+  },
+  "related_party_disclosures_sec188": [],
+  "audit_opinion": "UNQUALIFIED_CLEAN"
+}

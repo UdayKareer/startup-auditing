@@ -1,0 +1,65 @@
+{
+  "cin": "U74999DL2024PTC389102",
+  "company_name": "PhantomTech Solutions Private Limited",
+  "incorporation_date": "2023-04-18",
+  "roc_office": "ROC Delhi",
+  "authorized_capital_inr": 20000000.0,
+  "paid_up_capital_inr": 12500000.0,
+  "registered_email": "compliance@fraud.io",
+  "gstin": null,
+  "pan": null,
+  "merkle_root": "0xefa23b3b02820dee4d33ac8907f7fef60709337c89c72aebd983153e80098de5",
+  "ca_audit_opinion": "QUALIFIED_MATERIAL_UNCERTAINTY",
+  "hanko_stages": [
+    {
+      "stage_id": "stage_1",
+      "role_en": "Drafter",
+      "role_jp": "起　案",
+      "dept_jp": "国際投資部",
+      "signatory": "佐藤 (Sato)",
+      "status": "APPROVED",
+      "status_jp": "承認済",
+      "date": "2026-10-24"
+    },
+    {
+      "stage_id": "stage_2",
+      "role_en": "Reviewer",
+      "role_jp": "審　査",
+      "dept_jp": "法務コンプラ",
+      "signatory": "鈴木 (Suzuki)",
+      "status": "APPROVED",
+      "status_jp": "承認済",
+      "date": "2026-10-24"
+    },
+    {
+      "stage_id": "stage_3",
+      "role_en": "Forensic Auditor",
+      "role_jp": "精　査",
+      "dept_jp": "財務DD室",
+      "signatory": "高橋 (Takahashi)",
+      "status": "FLAGGED",
+      "status_jp": "否認/保留",
+      "date": "2026-10-24"
+    },
+    {
+      "stage_id": "stage_4",
+      "role_en": "Committee",
+      "role_jp": "合　議",
+      "dept_jp": "投資委員会",
+      "signatory": "田中 (Tanaka)",
+      "status": "HELD",
+      "status_jp": "審査中",
+      "date": "2026-10-24"
+    },
+    {
+      "stage_id": "stage_5",
+      "role_en": "Final Approver",
+      "role_jp": "決　裁",
+      "dept_jp": "代表取締役",
+      "signatory": "渡辺 (Watanabe)",
+      "status": "PENDING",
+      "status_jp": "決裁待ち",
+      "date": "2026-10-24"
+    }
+  ]
+}

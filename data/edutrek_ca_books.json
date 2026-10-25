@@ -1,0 +1,24 @@
+{
+  "company_cin": "U80903KA2021PTC156789",
+  "accounting_software": "Zoho Books Enterprise v2026.2",
+  "certified_by": "Batliboi & Associates CA (Resigned / Qualified)",
+  "financial_period": "FY 2026-27 (Q2-Q3)",
+  "trial_balance_inr": {
+    "booked_sales_revenue": 450000000.0,
+    "trade_receivables_total": 315000000.0,
+    "receivables_aging": {
+      "under_30_days": 35000000.0,
+      "31_to_90_days": 60000000.0,
+      "over_180_days_doubtful": 220000000.0
+    },
+    "trade_payables": 125000000.0,
+    "statutory_dues_payable": {
+      "gst_output_liability": 48000000.0,
+      "tds_payable": 14500000.0,
+      "pf_esi_payable": 6500000.0
+    },
+    "general_ledger_cash_balance": 15200000.0
+  },
+  "related_party_disclosures_sec188": [],
+  "audit_opinion": "QUALIFIED_DISCLAIMER_OF_OPINION"
+}
